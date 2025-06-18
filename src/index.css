@@ -1,0 +1,10 @@
+* {
+  margin: 3px;
+}
+
+form label {
+  margin-right: 10px;
+}
+.error {
+  color: red;
+}
